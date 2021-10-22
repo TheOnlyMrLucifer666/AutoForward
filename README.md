@@ -26,7 +26,3 @@ Install the required Python Modules in your machine. Not required if using [Hero
 ```
 pip3 install -r requirements.txt
 ```
-
-## Copyright & License
-- Copyright (©) 2020 by [Adnan Ahmad](https://github.com/viperadnan-git)
-- Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
